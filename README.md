@@ -6,6 +6,9 @@ Someone claiming to be Dana Whitfield, VP of Finance, says she lost her phone wh
 
 The caller provides the correct personal details, but other parts of the call raise concerns. Dana's account can also approve payments and access the bank portal, making an unauthorised reset particularly risky.
 
+*️ *Fictional scenario. Real world analysis.*
+
+
 ## 🎫 The Ticket
 
 **Manager's Request**
@@ -67,6 +70,11 @@ These are proposed procedures and controls, not changes implemented in a live en
 ## What I Learned
 
 *To be completed after the investigation and final review.*
+
+## What I'd Improve
+
+*To be completed after the investigation and final review.*
+
 
 ## Explore the Investigation
 
