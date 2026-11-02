@@ -41,7 +41,7 @@ I would apply the same principle here: **no independent verification, no MFA res
 - Warning signs of voice phishing and impersonation.
 - Immediate help desk response and communication.
 - Strong and weak identity verification methods.
-- A five-step MFA recovery process for privileged accounts.
+- A 5 step MFA recovery process for privileged accounts.
 - Follow-up actions after a suspected impersonation attempt.
 
 ## What I Learned
