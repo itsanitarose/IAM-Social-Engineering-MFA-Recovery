@@ -52,12 +52,12 @@ I would apply the same principle here: **no independent verification, no MFA res
 
 | Document | Focus |
 |:---------|:------|
-| [01. Source Data](01.%20Source%20Data.md) | Original ticket, call notes and account context. |
-| [02. Red Flags & Risk Assessment](02.%20Red%20Flags%20%26%20Risk%20Assessment.md) | Warning signs and potential impact. |
-| [03. Help Desk Call Handling](03.%20Help%20Desk%20Call%20Handling.md) | Step-by-step call flow, verification and what to say to the caller. |
-| [04. Identity Verification Methods](04.%20Identity%20Verification%20Methods.md) | Strong and weak verification options. |
-| [05. Privileged Account Recovery](05.%20Privileged%20Account%20Recovery.md) | Five-step recovery process and additional safeguards. |
-| [06. Digging Deeper](06.%20Digging%20Deeper.md) | Follow-up actions if the call was an impersonation attempt. |
+| [01. Source Data](document/01.Source%20Data.md) | Original call notes and account context. |
+| [02. Red Flags & Risk Assessment](document/02.%20Red%20Flags%20%26%20Risk%20Assessment.md) | Warning signs and potential impact. |
+| [03. Help Desk Call Handling](document/03.%20Help%20Desk%20Call%20Handling.md) | Call flow, verification checks and what to say to the caller. |
+| [04. Identity Verification Methods](document/04.%20Identity%20Verification%20Methods.md) | Strong and weak verification methods. |
+| [05. Privileged Account Recovery](document/05.%20Privileged%20Account%20Recovery.md) | Five-step recovery process and additional safeguards. |
+| [06. Digging Deeper](document/06.%20Digging%20Deeper.md) | Follow-up actions if the call was an impersonation attempt. |
 
 ---
 
