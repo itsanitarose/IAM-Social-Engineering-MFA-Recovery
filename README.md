@@ -63,7 +63,7 @@ My assessment produced:
 - A proposed help desk call handling process, including appropriate communication and escalation.
 - A comparison of strong and weak identity verification methods.
 - A proposed 5 step MFA recovery process for privileged accounts.
-- Follow-up recommendations for investigating a suspected impersonation attempt.
+- Follow up recommendations for investigating a suspected impersonation attempt.
 
 These are proposed procedures and controls, not changes implemented in a live environment.
 
