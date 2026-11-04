@@ -69,11 +69,31 @@ These are proposed procedures and controls, not changes implemented in a live en
 
 ## What I Learned
 
-*To be completed after the investigation and final review.*
+Social engineering fascinates me because it targets something more complicated than technology: **human judgement**. It is the art of manipulation, using emotions, trust, authority and urgency to influence decisions.
+
+In this case, the caller wasn't trying to break MFA. They were trying to influence the person with the power to reset it, making an exception seem reasonable.
+
+This reinforced two important lessons for me.
+
+**IAM goes beyond granting or restoring access.** It also means recognising suspicious behaviour, examining the evidence and making decisions that protect both the account and the business.
+
+**How we communicate a security boundary matters just as much as the boundary itself.** Until someone's identity is verified, we cannot assume they are who they say they are, but that doesn't mean treating them with suspicion or making them feel judged. We can acknowledge their situation, explain the next steps and remain firm about verification.
+
+Understanding the attacker's mindset helps me recognise manipulation. A defender's responsibility is to protect access without losing professionalism.
 
 ## What I'd Improve
 
-*To be completed after the investigation and final review.*
+**Improving the process**
+
+I'd introduce a dedicated escalation button within the Help Desk ticketing system for suspicious identity and MFA recovery requests. It could automatically capture the ticket details, document the warning signs and route the case to Security or IAM.
+
+If the organisation adopts AI agents, this structured information could also help them identify recurring patterns, highlight missing evidence and support investigations. Human oversight would remain essential, especially for decisions involving privileged account access recovery.
+
+**Developing my approach**
+
+I want to deepen my understanding of security governance and recognised frameworks, so my risk assessments and recommendations are not based on judgement alone.
+
+My goal is to make decisions that are supported by evidence, aligned with organisational policies and easier to explain, justify and audit.
 
 
 ## Explore the Investigation
