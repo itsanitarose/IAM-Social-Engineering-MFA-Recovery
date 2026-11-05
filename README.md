@@ -6,7 +6,7 @@ Someone claiming to be Dana Whitfield, VP of Finance, says she lost her phone wh
 
 The caller provides the correct personal details, but other parts of the call raise concerns. Dana's account can also approve payments and access the bank portal, making an unauthorised reset particularly risky.
 
-*️ *Fictional scenario. Real world analysis.*
+
 
 
 ## 🎫 The Ticket
@@ -111,4 +111,4 @@ My goal is to make decisions that are supported by evidence, aligned with organi
 
 [← Week 3: AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) · [All Case Studies](https://github.com/itsanitarose/IAM-Case-Studies)
 
-*Northwind Health is fictional. This is independent work. No production systems were changed.*
+*Northwind Health is fictional. Real world analysis. No production systems were changed.*
