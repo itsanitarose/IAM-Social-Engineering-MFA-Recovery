@@ -111,4 +111,4 @@ My goal is to make decisions that are supported by evidence, aligned with organi
 
 [← Week 3: AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) · [All Case Studies](https://github.com/itsanitarose/IAM-Case-Studies)
 
-
+*Northwind Health is fictional. This is independent work. No production systems were changed.*
