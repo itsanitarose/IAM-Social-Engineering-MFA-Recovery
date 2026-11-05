@@ -1,19 +1,21 @@
-# IAM: MFA Recovery & Identity Verification
-
-It's my fourth week on the security team at Northwind Health, and the help desk has escalated an urgent MFA reset request.
-
-Someone claiming to be Dana Whitfield, VP of Finance, says she lost her phone while travelling and needs MFA registered to a replacement device.
-
-The caller provides the correct personal details, but other parts of the call raise concerns. Dana's account can also approve payments and access the bank portal, making an unauthorised reset particularly risky.
-
-
-
-
 ## 🎫 The Ticket
 
-**Manager's Request**
+It's 26 October 2026, my fourth week on the security team at Northwind Health. The Help Desk has escalated an MFA reset request after an agent became concerned about the caller.
 
-> "The help desk escalated a call to us. Someone says she's Dana Whitfield, our VP of Finance, locked out while traveling, and wants her MFA reset to a new phone. The agent sounded uneasy, but she gave him everything he asked for. What should have happened, and how do we fix our process?"
+<br>
+
+The IT Manager writes:
+
+> The help desk escalated a call to us. Someone says she's Dana Whitfield, our VP of Finance, locked out while travelling, and wants her MFA reset to a new phone. The agent sounded uneasy, but she gave him everything he asked for. **What should have happened, and how do we fix our process?**
+
+<br>
+
+The Help Desk has already identified several warning signs. The caller knows personal details about Dana, but some of the information doesn't match what the organisation has on record.
+
+And this isn't just any account. Dana can approve payments and access the bank portal.
+
+
+<br>
 
 ## My Investigation
 
@@ -24,6 +26,8 @@ Five questions guided my investigation:
 3. Which identity verification methods are strong or weak, and why?
 4. How should MFA recovery work for privileged accounts?
 5. If this was an impersonation attempt, what should happen after the call?
+
+<br>
 
 ## What I Noticed
 
@@ -37,6 +41,8 @@ Three details immediately concerned me.
 
 None of these details proves the caller was an impersonator. But together, they make the request too risky to approve without stronger verification.
 
+<br>
+
 ## My Approach
 
 At first, this looked like an urgent MFA recovery request. But the caller's suspicious behaviour and conflicting information made me question whether the request was genuine.
@@ -44,6 +50,8 @@ At first, this looked like an urgent MFA recovery request. But the caller's susp
 I wanted to understand what was really happening, so I started looking into social engineering and how an attacker might manipulate the help desk's recovery process.
 
 From there, I assessed the warning signs, questioned whether the information provided really proved identity and developed safeguards that protect privileged accounts while allowing legitimate employees to regain access.
+
+<br>
 
 ## Top Priority
 
@@ -53,7 +61,7 @@ My experience in billing and payment support taught me that verification comes b
 
 I would apply the same principle here. The agent should pause the reset, explain that additional checks are required and use an independently verified  method rather than relying on the details provided during the call.
 
-
+<br>
 
 ## Case Study Outcome
 
@@ -66,6 +74,8 @@ My assessment produced:
 - Follow up recommendations for investigating a suspected impersonation attempt.
 
 These are proposed procedures and controls, not changes implemented in a live environment.
+
+<br>
 
 ## What I Learned
 
@@ -81,6 +91,8 @@ This reinforced two important lessons for me.
 
 Understanding the attacker's mindset helps me recognise manipulation. A defender's responsibility is to protect access without losing professionalism.
 
+<br>
+
 ## What I'd Improve
 
 **Improving the process**
@@ -95,6 +107,7 @@ I want to deepen my understanding of security governance and recognised framewor
 
 My goal is to make decisions that are supported by evidence, aligned with organisational policies and easier to explain, justify and audit.
 
+<br>
 
 ## Explore the Investigation
 
