@@ -107,6 +107,8 @@ My goal is to make decisions that are supported by evidence, aligned with organi
 | [05. Privileged Account Recovery](document/05.%20Privileged%20Account%20Recovery.md) | 5 step recovery process and additional safeguards. |
 | [06. Digging Deeper](document/06.%20Digging%20Deeper.md) | Follow-up actions if the call was an impersonation attempt. |
 
+<br>
+
 ---
 
 [← Week 3: AI Agent Security Review](https://github.com/itsanitarose/IAM-AI-Agent-Security-Review) · [All Case Studies](https://github.com/itsanitarose/IAM-Case-Studies)
