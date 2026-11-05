@@ -17,6 +17,8 @@ This map links IAM Analyst job requirements to the work completed in this case s
 | IAM Recovery and Business Continuity | [05. Privileged Account Recovery](document/05.%20Privileged%20Account%20Recovery.md): Proposed recovery safeguards and an authorised alternative for urgent financial operations without bypassing identity controls. |
 | Incident Escalation and Investigation | [06. Digging Deeper](document/06.%20Digging%20Deeper.md): Outlined follow-up investigations, evidence checks and escalation actions for a suspected impersonation attempt. |
 
+<br>
+
 ## 🔄 Actively Learning
 
 *Beyond the core job requirements.*
