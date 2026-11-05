@@ -17,15 +17,15 @@ This map links IAM Analyst job requirements to the work completed in this case s
 | IAM Recovery and Business Continuity | [05. Privileged Account Recovery](document/05.%20Privileged%20Account%20Recovery.md): Proposed recovery safeguards and an authorised alternative for urgent financial operations without bypassing identity controls. |
 | Incident Escalation and Investigation | [06. Digging Deeper](document/06.%20Digging%20Deeper.md): Outlined follow-up investigations, evidence checks and escalation actions for a suspected impersonation attempt. |
 
-### 🔄 Actively Learning
+## 🔄 Actively Learning
 
 *Beyond the core job requirements.*
 
-- **PowerShell for IAM:** Analyse identity data, identify orphaned accounts, flag excessive permissions and verify access changes.
-- **Non-Human Identity Management:** Service-account lifecycles, ownership and credential management.
-- **AI Agent Identity Security:** Agent identities, permissions, APIs, tools and connectors.
-- **AI Access Controls:** Delegated authorisation, least privilege and activity monitoring.
+- **PowerShell & Microsoft Graph for IAM:** Automating identity tasks, querying directory data and managing access.
+- **Non-Human Identity Management:** Service account lifecycles, ownership, credential management and accountability.
+- **AI Agent Identity Security:** Agent identities, permissions, APIs, tools, connectors and delegated access.
 
 ---
 
-[Back to Project Overview](README.md)
+
+[Back to Project Overview](./README.md)
